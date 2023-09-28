@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Dyly4g6C)
 # Homework 2 - Dev Setup and Deployment
 
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
@@ -41,7 +42,8 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to source: https://github.com/schooljocky/homework-2
+- URL to live application: https://schooljocky.github.io/homework2-gh-pages/
+- What code editor are you using? vi
 
 That is all!
