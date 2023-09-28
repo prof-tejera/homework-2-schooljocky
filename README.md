@@ -42,7 +42,8 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to source: https://github.com/schooljocky/homework-2
+- URL to live application: https://schooljocky.github.io/homework2-gh-pages/
+- What code editor are you using? vi
 
 That is all!
